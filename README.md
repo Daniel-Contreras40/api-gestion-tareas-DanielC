@@ -60,4 +60,3 @@ Está dirigida a estudiantes, freelancers y equipos pequeños que requieren una 
   "due_date": "2026-02-15",
   "status": "pending"
 }
-
