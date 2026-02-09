@@ -14,3 +14,18 @@ Thumbs.db
 
 # Configuración de VS Code
 .vscode/
+
+
+# Entorno virtual
+venv/
+__pycache__/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de VS Code
+.vscode/
+
+# Archivos compilados
+*.pyc
