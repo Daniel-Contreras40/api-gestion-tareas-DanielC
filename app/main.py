@@ -51,3 +51,7 @@ def protected(token: str = Depends(oauth2_scheme)):
         "message": "Acceso permitido con JWT",
         "token": token
     }
+
+@app.get("/")
+def read_root():
+    return {"message": "Bienvenido a la API de Gestión de Tareas"}
